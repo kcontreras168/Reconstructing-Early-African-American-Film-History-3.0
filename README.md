@@ -1,2 +1,9 @@
 # Reconstructing-Early-African-American-Film-History-3.0
 Reconstructing Early African American History 3.0
+This project was created by UCLA students and faculty members  to reconstruct and revive the history of early African-American silent race films.  The interest for this project was sparked by the Johnson Negro Film Collection at UCLA’s Young E Research Library.  Miriam Posner, Digital Humanities Director and this project's capstone professor, was informed about the collection and recognized the need to bring to this hidden film history to the foreground of academic research. The intention behind this project was to address an unwritten history, through a structure that would be the most effective for academic research.  
+
+About the Project
+This main goal of this project was to collaboratively create a database on early African-American silent race films by using a wide range of primary and secondary sources.   For the purpose of this project, we determined that we would only include silent films created before 1930 by African-Americans companies for African-American audiences. (is this the correct definition we feel comfortable using?) This definition was the main factor that informed our decisions to include or exclude pieces of data. The database we have created contains information on films, actors, production companies, and other aspects of early silent-era African American race films.  The database is intended to allow the public to learn about this period in film history that is rarely discussed.
+
+Data limitations/disclaimer
+Our extensive data collection process caused us to recognize the limitations of our data.  We were forced to make difficult decisions about what information to include and that information to exclude.  Further, because this history is relatively undocumented, we faced limitations with the sources we were able to utilize in our research process.  
